@@ -8,6 +8,7 @@ using static AllPrograms.AllPrograms;
 delegate void Del(int n);
 namespace AllPrograms
 {
+    //program class contains all the code
     public class Program
     {
 
@@ -16,7 +17,7 @@ namespace AllPrograms
         {
             ClsMath i = new ClsMath();
             //int op = 8;
-
+//venkat
             //float b = op;
 
             //float kp = 8;
